@@ -101,6 +101,6 @@ Load cleaned dimensions and facts to BigQuery
 - python scripts/bigquery_reload/reload_all_tables.py
 
 ### ** Phase 7 – Dashboard ***
--Build KPIs & insights in Google Data Studio / Tableau
+-Build KPIs & insights in Looker Studio
 
 
