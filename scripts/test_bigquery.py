@@ -1,4 +1,5 @@
 # scripts/test_bigquery.py
+#this script tells ous if we are connected to bigquery successfully
 
 from google.cloud import bigquery
 import os
