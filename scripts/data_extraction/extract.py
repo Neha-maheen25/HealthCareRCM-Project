@@ -1,4 +1,5 @@
 # scripts/data_extraction/extract.py
+#this process extracts the raw files from hospital_a_db and hospital_b_db
 
 import pandas as pd
 import time
