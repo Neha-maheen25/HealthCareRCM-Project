@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "healthcare-rcm-project-467704",
+  "private_key_id": "c6fc1efcfdb27501dc693ae5bb6948133781fc19",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCRgXo5Z3ApFe3Y\nPGs0+INcUMb6yQD4ikFU3erGdigMrOznuX1t4DFpdSMqVf6kkKxmx7nsu+8ehm2F\n814G7zzKmyEGSrG+Sh9LNPnnhVzIMcPFlBznaQubra9f1aO8yGwirsmEy6YEB31x\nVmrZ8VorjJ4QdzW+ezA5XHHYomi9f93BTaGL/+2dnjTLnjdfSqN5B3G2NU0oCcrH\nvCN+gIxKssWqpX4U9g9yOp607q5il5Lv0jiWPSgK/U3JcHUBZoRmYs6EnZGdTEqn\ni/bP6sfoaerh6eMRNMFP3iREPKeRKCCaMoEZbpXZJbd2NoTM/PbEi9ib2OQQ+a9H\nmTkVOFVBAgMBAAECggEAA+kwgVF77MbHnUvGb+aMFVOgfYYgjg2dQuwyDsKHQgv1\n1CairezcNyLsXotwLDktQRf2Mdw9SZtAX1zStqoAfsuboCEq1NwGKk3St7vYahMY\nWXupKTkkFDufXpqN65mRen8rMHQO0sXmw8CYX6JCk7AUYYnqumNyQOBwuOtomEtI\nqH/0HYhs/w/uwe86gJ5eKS2XJTz1RJ7gqu+g/LBSweVAdNxgD+p1GcXIHqSUroZw\n4C7EISTMQ4ZNY2xckggGtMjHWf1aJvmSUYRHdaUa3zaOGolXnNWJwWBYyM7LFTvK\n0WvPKxjky/ck/nmfLi53UU0R/fj0BgnKI10edBmDpwKBgQDE+xcfsSXeAucDVga4\nfBfEm0p4WPk/cEXfh/04zDhAWNZ2YvufVyAoFxZeZdl8TovAGSJOYb3pfmVAWvDH\nxPMeGxz8HVh73AJSQycTQ8F4V/UnKwHp7Dxkt10vVpT8VjkMm9A4eK4HwpK/56+d\nEHOGMxwnBWKiP8gt0gpRGlQcNwKBgQC9GiAJc0w2xdED/Xpds58sieskaDEnI6b0\ny5VdBodzXsjbXMLONEb39oRnMiICnMjXLjpxOvmNtSGxeilZ55BJLspFZMUHLKfi\nSgCdN+7QECPE770BnuF1iEjV80/Ceq32Y0wuMPvdiCiXQf5YLafQX/euPSoIH0Nb\nEdLyjrKORwKBgEfALmwc2u5DoGJWs5v/l6jF6BpuTlwNSWZi4poNyW+m7HezFnS0\nB8KSplM8RjxBYCZZAWYLtGGY6MjIV2xtESGmPqiXB+QV/8J3M4SQ6agsYeAiik/q\n/RSytf7ISvyfa6hsGSx4yOuKtGmyuwU7ONlpRJfyHjt7gC8wkxF3xauBAoGBAJRN\nWdSvhJTsHJjZgM7doLaoTy4VPH8qebQ/uRrklPPI4RMQM4LOAt5SidH4wi10UhpX\nmePVUYNuC0eJu8ZTUZfjRySW++I9hkh0qvihtfucvMClF4Ce3shzIlQQZnvqBGZX\nx5XuOoipUNQXIGZ9H7/Ok4slUsJd6lAQsXQiryvfAoGBAMGtLi9vUuQKEtpdeMhE\nnQnmGzOYMBH9WlBr/xyIk6dVtx3CUGmVWyTYYLsHLmIp3YgsfoJ0pD64ZjMcs2ZT\nbALmh87CV4Kljfd3RH1yZNL68choHmw69kDY6brryE1CiymyOC5BoR+5zvqKD7Oq\ngP6Gy6KuI1O1cEaeEtvyAOb7\n-----END PRIVATE KEY-----\n",
+  "client_email": "bigquery-access@healthcare-rcm-project-467704.iam.gserviceaccount.com",
+  "client_id": "113306524416555394246",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bigquery-access%40healthcare-rcm-project-467704.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
