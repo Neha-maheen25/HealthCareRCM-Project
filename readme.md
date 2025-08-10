@@ -1,12 +1,12 @@
 # 🏥 RCM Project – Revenue Cycle Management Data Pipeline
 
-## 📌 Overview
+##  Overview
 This project implements an end-to-end **ETL pipeline** for healthcare **Revenue Cycle Management (RCM)**.  
 It extracts patient, provider, claims, and transactions data from multiple hospital databases, transforms and cleans it, implements **Slowly Changing Dimensions (SCD Type 2)** for patient history tracking, loads data into a **Star Schema** in **BigQuery**, and visualizes KPIs in a dashboard.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 RCM_PROJECT/
 │
