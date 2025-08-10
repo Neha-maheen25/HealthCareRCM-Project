@@ -1,3 +1,9 @@
+"""
+run_etl.py
+-----------
+Main ETL runner for the Healthcare RCM Project.
+"""
+
 import os
 import pandas as pd
 from transform_logic import clean_patient_data, clean_claim_data
