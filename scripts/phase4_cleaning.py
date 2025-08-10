@@ -1,3 +1,5 @@
+# This script handles Phase 4: Data Cleaning
+
 import pandas as pd
 import os
 
