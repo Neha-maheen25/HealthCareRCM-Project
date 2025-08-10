@@ -1,8 +1,4 @@
-"""
-run_etl.py
------------
-Main ETL runner for the Healthcare RCM Project.
-"""
+# this has the ETL Pipelining
 
 import os
 import pandas as pd
@@ -69,4 +65,4 @@ if __name__ == "__main__":
     print(" Starting ETL Process for Phase 3...")
     process_patients()
     process_claims()
-    print(" ETL Transformation Completed.")
+    print(" 🚀 ETL Transformation Completed,")
