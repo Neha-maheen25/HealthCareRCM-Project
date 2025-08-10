@@ -1,3 +1,4 @@
+# used this script to load dimand fact csv to big query/ also added them manually in bigquery
 import os
 from google.cloud import bigquery
 from google.oauth2 import service_account
